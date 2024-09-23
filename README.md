@@ -1,0 +1,1 @@
+# go-telegraf-vsphere-metrics
